@@ -1,4 +1,7 @@
-##Questões 1,2,5 estão na pasta src 
+## Questões 1,2,5 estão na pasta src 
+Arquivo SomaLoop remetente a questão 1
+Arquivo VerificadorFibonacci remetente a questão 2
+Arquivo InverteString remetente a questão 5
 
 ## Questão 3
 a) A lógica é adicionar 2 ao elemento anterior.
