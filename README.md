@@ -1,5 +1,4 @@
-/*
-Questão 3
+## Questão 3
 a) A lógica é adicionar 2 ao elemento anterior.
   Próximo elemento: 7 + 2 = 9
   Resposta: 1, 3, 5, 7, 9
@@ -33,4 +32,4 @@ a) A lógica é adicionar 2 ao elemento anterior.
   Se a lâmpada está acesa então o segundo interruptor controla essa lâmpada
   Se a lâmpada está apagada e ainda está fria então o terceiro interruptor controla essa lâmpada
   Se a lâmpada está apagada mas está quente então o primeiro interruptor controla essa lâmpada
-*/
+
