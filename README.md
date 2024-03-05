@@ -1,3 +1,5 @@
+##Questões 1,2,5 estão na pasta src 
+
 ## Questão 3
 a) A lógica é adicionar 2 ao elemento anterior.
   Próximo elemento: 7 + 2 = 9
