@@ -30,6 +30,8 @@ a) A lógica é adicionar 2 ao elemento anterior.
   vou na outra sala e vejo as hipoteses
 
   Se a lâmpada está acesa então o segundo interruptor controla essa lâmpada
+  
   Se a lâmpada está apagada e ainda está fria então o terceiro interruptor controla essa lâmpada
+  
   Se a lâmpada está apagada mas está quente então o primeiro interruptor controla essa lâmpada
 
